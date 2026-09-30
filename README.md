@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Erico Flick 👋
 
-<!--
-**ericoflick-ai/ericoflick-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Career Positioning Specialist | Reverse Recruiting
 
-Here are some ideas to get you started:
+I help professionals better position their experience, career story, resume, and professional presence for new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Focus On
+
+- Career Positioning
+- Reverse Recruiting
+- ATS Resume Optimization
+- Professional Branding
+- Profile Positioning
+- Job Search Strategy
+
+## Career Positioning Community
+
+I created the Career Positioning Community for professionals exploring new opportunities, remote work, career growth, and better ways to present their experience.
+
+The goal is simple: share practical ideas, ask questions, and help professionals understand the value of the experience they already have.
+
+## Flick Digital Partners
+
+Through Flick Digital Partners, I also work across career and digital growth services, helping professionals and businesses strengthen their positioning and digital presence.
+
+"Your career story matters. The right positioning helps people understand the value behind your experience."
+
+Career. Positioning. Opportunity. Growth.
+
+#CareerPositioning #ReverseRecruiting #CareerGrowth #JobSearch #CareerDevelopment #ResumeOptimization #ATSResume #ProfessionalBranding #CareerStrategy #RemoteJobs #JobSeekers #FlickDigitalPartners
